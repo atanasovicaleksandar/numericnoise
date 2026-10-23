@@ -8,25 +8,22 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   return (
     <section className="section-wrap page-section about-page">
-      <div className="eyebrow">PURPOSE / METHOD / POSITION</div>
-      <h1 className="page-title">Numbers are tools.<br /><span>Culture is the context.</span></h1>
+      <div className="eyebrow">What do we do?</div>
+      <h1 className="page-title">We take something creative and free as alternative art.<br /><span>Then suck every joy out of it by conducting rigorous statistical analysis.</span></h1>
       <p className="page-lede">
-        NumericNoise is an independent platform for exploring alternative
-        music, visual art, and underground culture through data and editorial
-        research.
+        NumericNoise is built with the aim to approach data through a medium more reserved for creatives.
       </p>
       <div className="about-columns">
         <div>
-          <h2>Why NumericNoise?</h2>
+          <h2>Why?</h2>
           <p>
-            Cultural scenes generate traces: releases, collaborations, venues,
-            formats, dates, networks, and documents. Statistical methods can
-            help us notice patterns in those traces, provided we remember what
-            the data leaves out.
+            Quite easy. Infodumping in a structured form.
+            Having a way to go over certain topics and ideas,
+            while also learning about statistical approaches and data analysis
           </p>
         </div>
         <div>
-          <h2>How we work</h2>
+          <h2>What we do?</h2>
           <p>
             Research should state its sources, explain its methods, distinguish
             observations from interpretations, and disclose uncertainty.
