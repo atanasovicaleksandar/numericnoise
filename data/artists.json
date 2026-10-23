@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-artist-001",
+    "name": "Example Artist A",
+    "genres": ["experimental electronic"],
+    "location": null,
+    "sourceUrl": null,
+    "notes": "Fictional placeholder record. Replace before publication."
+  }
+]

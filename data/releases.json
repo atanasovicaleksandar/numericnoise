@@ -1,0 +1,12 @@
+[
+  {
+    "id": "demo-release-001",
+    "title": "Untitled Study 01",
+    "artistIds": ["demo-artist-001"],
+    "labelId": "demo-label-001",
+    "releaseYear": 2024,
+    "format": "digital",
+    "sourceUrl": null,
+    "notes": "Fictional placeholder record. Replace before publication."
+  }
+]
