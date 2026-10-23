@@ -5,10 +5,10 @@
   --ink: #171815;
   --muted: #77786f;
   --line: #cecec4;
-  --acid: #c7f36b;
+  --acid: #f2765e;
   --surface: #e6e6dc;
-  --mono: "DM Mono", "Courier New", monospace;
-  --sans: "Space Grotesk", Arial, sans-serif;
+  --mono: "Monaco", "Courier New", monospace;
+  --sans: "Work Sans", Arial, sans-serif;
 }
 
 * { box-sizing: border-box; }
