@@ -17,11 +17,10 @@ export default function JournalPage() {
       </p>
       <article className="feature-article">
         <div className="article-meta">FIELD NOTE · EDITORIAL DIRECTION</div>
-        <h2>Listening for patterns in the noise</h2>
+        <h2>Just a reminder</h2>
         <p>
-          NumericNoise is being built around a simple question: what can
-          careful analysis reveal about culture—and what should remain open to
-          interpretation?
+          NumericNoise is here for purposes of curiousity and learning. This is by no means a definite truth.
+          If you disagree, that is fine.
         </p>
         <p className="muted-note">
           This is a starter feature, not a published research finding. Replace
