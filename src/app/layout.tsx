@@ -5,7 +5,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: {
     default: "NumericNoise — Data, sound & alternative culture",
-    template: "%s — NumericNoise",
+    template: "%s — NumericNoise.Net",
   },
   description:
     "An independent research and publishing project exploring alternative music, art, scenes, and statistics.",
@@ -39,13 +39,13 @@ export default function RootLayout({
                 </Link>
               ))}
             </nav>
-            <span className="header-index">INDEPENDENT DATA CULTURE / 001</span>
+            <span className="header-index">DARK AND METRICS</span>
           </header>
           <main>{children}</main>
           <footer className="site-footer">
-            <Link className="footer-mark" href="/">NUMERICNOISE.</Link>
-            <p>Data is a material. Culture is the signal.</p>
-            <span>Independent research · Experimental culture</span>
+            <Link className="footer-mark" href="/">NUMERICNOISE.NET</Link>
+            <p>Everything can be made boring if you really set your mind to it.</p>
+            <span>Neverending math equation.</span>
           </footer>
         </div>
       </body>
