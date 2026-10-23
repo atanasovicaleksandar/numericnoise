@@ -3,10 +3,10 @@ import Link from "next/link";
 const projects = [
   {
     number: "01",
-    type: "DATA STUDY / IN DEVELOPMENT",
-    title: "Mapping the independent signal",
+    type: "VISUALIZATION EXPLAINED THROUGH A SIMPLE DATASET",
+    title: "Musicians and Mortality",
     description:
-      "A study of how independent releases move through labels, scenes, and time. The first dataset and methodology will be published with the results.",
+      "A visual representation of musicians and how they die based on the genre. This is purely a visualization excersize and not an analysis",
     href: "/lab",
   },
   {
@@ -20,9 +20,9 @@ const projects = [
   {
     number: "03",
     type: "JOURNAL / EDITORIAL",
-    title: "Notes from the noise floor",
+    title: "Does alternative art stack against rigor of statistical approach?",
     description:
-      "Essays and field notes at the intersection of sound, visual culture, technology, and statistical inquiry.",
+      "Taking an off handed comment made by a musician and testing it as a hypothesis (I'm looking at you Brian Eno).",
     href: "/journal",
   },
 ];
@@ -32,7 +32,7 @@ export default function HomePage() {
     <>
       <section className="hero section-wrap">
         <div className="eyebrow"><span className="signal-dot" /> Where creativity goes to die.</div>
-        <h1>One source of trugh<br />noise. <span>For stuff you never cared about.</span></h1>
+        <h1>One source of truth<br />. <span>For stuff you never cared about.</span></h1>
         <div className="hero-bottom">
           <p className="hero-intro">
             NumericNoise explores alternative music, art, and underground
@@ -53,7 +53,7 @@ export default function HomePage() {
 
       <section className="section-wrap projects-section">
         <div className="section-heading">
-          <span className="eyebrow">THE CURRENT FREQUENCY</span>
+          <span className="eyebrow">What's the frequenc,y Kanneth?</span>
           <span className="muted-index">PROJECTS / 001—003</span>
         </div>
         <div className="project-list">
@@ -74,7 +74,7 @@ export default function HomePage() {
       <section className="manifesto">
         <div className="section-wrap manifesto-inner">
           <span className="eyebrow">A WORKING PRINCIPLE</span>
-          <p>Not everything that matters is easy to count.<br /><span>Not everything countable tells the whole story.</span></p>
+          <p>Certain ideas should never get to see the light of day.<br /><span>Yet here we are...</span></p>
           <Link className="text-link" href="/about">Read our approach <span aria-hidden="true">↗</span></Link>
         </div>
       </section>
