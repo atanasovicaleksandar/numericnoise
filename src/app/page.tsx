@@ -31,8 +31,8 @@ export default function HomePage() {
   return (
     <>
       <section className="hero section-wrap">
-        <div className="eyebrow"><span className="signal-dot" /> INDEPENDENT RESEARCH PLATFORM · EST. 2026</div>
-        <h1>Culture makes<br />noise. <span>We measure it.</span></h1>
+        <div className="eyebrow"><span className="signal-dot" /> Where creativity goes to die.</div>
+        <h1>One source of trugh<br />noise. <span>For stuff you never cared about.</span></h1>
         <div className="hero-bottom">
           <p className="hero-intro">
             NumericNoise explores alternative music, art, and underground
