@@ -22,7 +22,7 @@ const projects = [
     type: "JOURNAL / EDITORIAL",
     title: "Does alternative art stack against rigor of statistical approach?",
     description:
-      "Taking an off handed comment made by a musician and testing it as a hypothesis (I'm looking at you Brian Eno).",
+      "Taking an off handed comment made by a musician and testing it as a hypothesis (I am looking at you Brian Eno).",
     href: "/journal",
   },
 ];
@@ -47,13 +47,13 @@ export default function HomePage() {
               <span key={i} style={{ height: `${12 + ((i * 37 + i * i * 11) % 83)}%` }} />
             ))}
           </div>
-          <div className="graphic-label label-right">I don't think this is what they meant by math rock...</div>
+          <div className="graphic-label label-right">I don not think this is what they meant by math rock...</div>
         </div>
       </section>
 
       <section className="section-wrap projects-section">
         <div className="section-heading">
-          <span className="eyebrow">What's the frequenc,y Kanneth?</span>
+          <span className="eyebrow">Whats the frequency Kanneth?</span>
           <span className="muted-index">PROJECTS / 001—003</span>
         </div>
         <div className="project-list">
