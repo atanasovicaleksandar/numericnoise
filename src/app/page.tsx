@@ -47,7 +47,7 @@ export default function HomePage() {
               <span key={i} style={{ height: `${12 + ((i * 37 + i * i * 11) % 83)}%` }} />
             ))}
           </div>
-          <div className="graphic-label label-right">NOISE IS INFORMATION</div>
+          <div className="graphic-label label-right">I don't think this is what they meant by math rock...</div>
         </div>
       </section>
 
